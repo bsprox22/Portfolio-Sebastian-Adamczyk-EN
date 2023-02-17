@@ -1,14 +1,14 @@
 # PORTFOLIO
 
-# O mnie
+# About me
 
-# Umiejętności techniczne
+# Technical skills
 * Java
 * HTML
 * CSS
 * SQL
 * REST API
-# Narzędzia
+# Tools
 * Jira
 * IntelliJ IDEA
 * PicPick
@@ -18,7 +18,7 @@
 * GitHub
 * MySQL
 * Postman
-# Kursy
+# Courses
 * [Roadmapa Programisty](https://www.programujodpodstaw.pl/roadmapa-programisty/)
 * [Harvard CS50](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR)
 * Software testing
@@ -58,14 +58,14 @@
     * [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
 * Selenium
     * [Kurs Selenium w Javie](https://www.youtube.com/watch?v=33O3dmKhTBg&list=PLZTxwbvLNhALIupUiUw5TfROPhmPXJbmP&index=1&t=2s)
-# Certyfikaty
+# Certificates
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-957b9095-8ecf-4989-afc4-caeb5f66b633/)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-0ea48586-29c1-4866-add6-e6b01c3286ba/)
 
-# Rekomendowane blogi
+# Recommended blogs
 * [Remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
 * [Testelka](https://testelka.pl/)
 
-# Książki
+# Books
 * Zawód tester - Radosław Smilgin
 * Certyfikowany tester ISTQB poziom podstawowy - Adam Roman, Lucjan Stapp
