@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 # About me
-
+Hi, I am Sebastian for the last 10 years I was a professional sports trader on Betfair exchange. Some time ago I decided to change my career path and for a year I have been constantly developing as a software tester.
 # Technical skills
 * Java
 * HTML
