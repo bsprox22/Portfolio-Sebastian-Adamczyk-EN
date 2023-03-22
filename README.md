@@ -70,6 +70,9 @@ Hi, I am Sebastian for the last 10 years I was a professional sports trader on B
 * Profession tester - Radosław Smilgin
 * Certified ISTQB basic level tester - Adam Roman, Lucjan Stapp
 
+# My example bug report
+* [Amazon GUI](https://drive.google.com/drive/folders/1aXdQDYKvWuPq6ih779DlcOveC1oFhpqR?usp=sharing)
+
 # Test cases
 * [Test cases](https://docs.google.com/spreadsheets/d/1KxK9W63VJ-d_ltpQYfVb0zCaVjz_jjW7/edit?usp=sharing&ouid=107048792859349229299&rtpof=true&sd=true)
 
