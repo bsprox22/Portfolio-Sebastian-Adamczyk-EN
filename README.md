@@ -69,3 +69,16 @@ Hi, I am Sebastian for the last 10 years I was a professional sports trader on B
 # Books
 * Profession tester - Radosław Smilgin
 * Certified ISTQB basic level tester - Adam Roman, Lucjan Stapp
+
+# Test cases
+* [Test cases](https://docs.google.com/spreadsheets/d/1KxK9W63VJ-d_ltpQYfVb0zCaVjz_jjW7/edit?usp=sharing&ouid=107048792859349229299&rtpof=true&sd=true)
+
+# Test scenarios
+* [Test scenario](https://docs.google.com/spreadsheets/d/1T6Uei_Ybal53khtFSLwct1XKbb4PZTse/edit?usp=sharing&ouid=107048792859349229299&rtpof=true&sd=true)
+
+# Acceptance sheets
+* [Acceptance sheet](https://docs.google.com/spreadsheets/d/1hFXr82WNHMHPGxU4Ep2L-nHzlZeRE7Y5/edit?usp=sharing&ouid=107048792859349229299&rtpof=true&sd=true)
+
+# Quality reports
+* [Quality report](https://drive.google.com/file/d/1xgBvZ5jSTjj9SlCHJuWIFhLw-gocIqTM/view?usp=sharing)
+
