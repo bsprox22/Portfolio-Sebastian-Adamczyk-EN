@@ -84,7 +84,3 @@ Hi, I am Sebastian for the last 10 years I was a professional sports trader on B
 
 # Quality reports
 * [Quality report](https://drive.google.com/file/d/1xgBvZ5jSTjj9SlCHJuWIFhLw-gocIqTM/view?usp=sharing)
-
-# SQL queries
-* [SQL queries](https://drive.google.com/file/d/1SqCrHpYaS50ioE-on-iFkVjBRLPalNa7/view?usp=sharing)
-
