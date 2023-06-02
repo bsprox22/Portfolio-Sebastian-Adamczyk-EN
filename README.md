@@ -4,6 +4,7 @@
 Hi, I'm Sebastian. I've been a professional sports trader for the last ten years. Over many years of work, I have learned such things as: Critical thinking, problem solving, adaptability, creativity, time management, prioritizing tasks, Communication, hard work, organization, calm, meticulousness, aiming at the goal, attention to details, and analytical skills A year ago, I decided to change my career path and become a software tester. Since then, I have spent over 1,000 hours learning things like the basics of manual testing. I have the most experience with bug reporting in Jira, of which I have reported about 500. Basic HTML and CSS, so I can easily use DevTools. I also know the basics of the SQL language, and I have experience testing APIs using Postman. I know the basics of Java and Python and the basics of test automation in Selenium WebDriver. My English is at an intermediate level (B2). I believe that I have a solid foundation to start my career in the IT industry as a software tester.
 # Technical skills
 * Java
+* Python
 * HTML
 * CSS
 * SQL
