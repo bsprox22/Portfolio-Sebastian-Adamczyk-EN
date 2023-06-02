@@ -8,8 +8,8 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
 * HTML
 * CSS
 * SQL
-* Git
 * REST API
+* Git
 # Tools
 * Jira
 * IntelliJ IDEA
