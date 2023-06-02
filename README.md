@@ -31,6 +31,8 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
     * [Basics of manual software testing](https://www.udemy.com/course-dashboard-redirect/?course_id=2925588)
     * [Practical software testing course](https://www.udemy.com/course-dashboard-redirect/?course_id=4345304)
 * Test automation
+    * [Selenium WebDriver Tutorial](https://www.youtube.com/watch?v=25U-KUpWd1c&list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm)
+    * [Selenium Python Tutorial](https://www.youtube.com/watch?v=fH4AWp9hzZM&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz)
     * [Selenium in Java course](https://www.youtube.com/watch?v=33O3dmKhTBg&list=PLZTxwbvLNhALIupUiUw5TfROPhmPXJbmP&index=1&t=2s)
 * Java
     * [Java course - basics](https://www.youtube.com/watch?v=6G19kFcVXTo)
