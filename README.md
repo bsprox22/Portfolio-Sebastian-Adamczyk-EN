@@ -29,8 +29,6 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
 # Courses
 * Test automation
     * [Selenium in Java course](https://www.youtube.com/watch?v=33O3dmKhTBg&list=PLZTxwbvLNhALIupUiUw5TfROPhmPXJbmP&index=1&t=2s)
-* [Developer Roadmap](https://www.programujodpodstaw.pl/roadmapa-programisty/)
-* [Harvard CS50](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR)
 * Software testing
     * [Basics of manual software testing](https://www.udemy.com/course-dashboard-redirect/?course_id=2925588)
     * [Practical software testing course](https://www.udemy.com/course-dashboard-redirect/?course_id=4345304)
@@ -66,6 +64,8 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
 * Rest API
     * [REST API course](https://www.youtube.com/watch?v=P9b8-BrWdYs&list=PLjHmWifVUNMLjh1nP3p-U0VYrk_9aXVjE) 
     * [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
+* [Developer Roadmap](https://www.programujodpodstaw.pl/roadmapa-programisty/)
+* [Harvard CS50](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR)
 
 # Certificates
 * [Basics of manual software testing](https://www.udemy.com/certificate/UC-957b9095-8ecf-4989-afc4-caeb5f66b633/)
