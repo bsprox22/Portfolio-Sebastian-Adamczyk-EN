@@ -27,11 +27,11 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
 * PicPick
 * Sharex
 # Courses
-* Test automation
-    * [Selenium in Java course](https://www.youtube.com/watch?v=33O3dmKhTBg&list=PLZTxwbvLNhALIupUiUw5TfROPhmPXJbmP&index=1&t=2s)
 * Software testing
     * [Basics of manual software testing](https://www.udemy.com/course-dashboard-redirect/?course_id=2925588)
     * [Practical software testing course](https://www.udemy.com/course-dashboard-redirect/?course_id=4345304)
+* Test automation
+    * [Selenium in Java course](https://www.youtube.com/watch?v=33O3dmKhTBg&list=PLZTxwbvLNhALIupUiUw5TfROPhmPXJbmP&index=1&t=2s)
 * Java
     * [Java course - basics](https://www.youtube.com/watch?v=6G19kFcVXTo)
     * [Java course - object-oriented programming](https://www.youtube.com/watch?v=OvY0f-IWlos)
