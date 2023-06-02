@@ -27,7 +27,7 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
 * PicPick
 * Sharex
 # Courses
-* Selenium
+* Test automation
     * [Selenium in Java course](https://www.youtube.com/watch?v=33O3dmKhTBg&list=PLZTxwbvLNhALIupUiUw5TfROPhmPXJbmP&index=1&t=2s)
 * [Developer Roadmap](https://www.programujodpodstaw.pl/roadmapa-programisty/)
 * [Harvard CS50](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR)
