@@ -12,13 +12,13 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
 * Git
 # Tools
 * Jira
-* IntelliJ IDEA
-* PicPick
-* Sharex
+* Postman
 * Chrome DevTools
 * GitHub
 * MySQL
-* Postman
+* IntelliJ IDEA, PyCharm, Eclipse
+* PicPick
+* Sharex
 # Courses
 * Selenium
     * [Selenium in Java course](https://www.youtube.com/watch?v=33O3dmKhTBg&list=PLZTxwbvLNhALIupUiUw5TfROPhmPXJbmP&index=1&t=2s)
