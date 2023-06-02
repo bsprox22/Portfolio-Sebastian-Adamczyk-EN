@@ -15,8 +15,15 @@ Hi, I'm Sebastian. I've been a professional sports trader for the last ten years
 * Postman
 * Chrome DevTools
 * GitHub
+* Jenkins
+* Fiddler
 * MySQL
+* Selenium WebDriver
+* JUnit, TestNG, pytest
+* Maven
 * IntelliJ IDEA, PyCharm, Eclipse
+* Virtualbox
+* Brackets
 * PicPick
 * Sharex
 # Courses
